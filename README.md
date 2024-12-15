@@ -1,5 +1,5 @@
 # QuickRent - Gadget Renting Platform 
- quickrent-frontend.vercel.app
+[**QuickRent Live Site**](quickrent-frontend.vercel.app)
 
 Welcome to **QuickRent**, a modern and responsive platform designed for renting gadgets like laptops, cameras, gaming consoles, and more. QuickRent aims to provide an easy and seamless way to browse, rent, and return tech gadgets for all your needs, whether personal or professional.
 
@@ -26,7 +26,7 @@ Welcome to **QuickRent**, a modern and responsive platform designed for renting 
 ## 🚀 **Deployment**
 - The app is deployed on Vercel. You can view the live version at:
 
- - QuickRent Live Site quickrent-frontend.vercel.app
+ - [**QuickRent Live Site**](quickrent-frontend.vercel.app)
 
  - Deploying to Vercel
  - Push the project to GitHub.
