@@ -22,21 +22,30 @@ Welcome to **QuickRent**, a modern and responsive platform designed for renting 
 - **Features Section:** Highlight the advantages of using QuickRent (e.g., affordable pricing, fast delivery).
 - **Contact Us:** Simple form to submit inquiries or feedback, with optional office location map.
 
-## 📦 **Installation**
+## 🚀 **Deployment**
+- The app is deployed on Vercel. You can view the live version at:
 
-To run the project locally, follow these steps:
+ - QuickRent Live Site (Replace with actual link after deployment)
 
-### 1. Clone the Repository
+ - Deploying to Vercel
+ - Push the project to GitHub.
+ - Link your GitHub repository to Vercel.
+ - Vercel will automatically detect the framework (React + Vite) and deploy it.
+ 
+## 📝 Code Highlights
+ - App.jsx - Main Component
+ - The main entry point of the app, which renders the navbar, hero banner, and features 
+    section.
+ - Navbar.jsx - Navigation Bar
+ - A responsive navbar with links to different sections of the website.
+ - HeroBanner.jsx - Hero Banner Section
+ - The hero section with a call-to-action button inviting users to explore rentals.
+ - Features.jsx - Features Section
+ - Highlighting the main features of the QuickRent platform with icons.
 
-```bash
-git clone https://github.com/your-username/quickrent.git
+## 🌱 Contributing
+We welcome contributions to improve QuickRent! Please fork this repository, create a new branch, and submit a pull request for any changes or enhancements.
 
- ##  **Deployment**
-The app is deployed on Vercel. You can view the live version at:
 
-QuickRent Live Site (Replace with actual link after deployment)
 
-Deploying to Vercel
-Push the project to GitHub.
-Link your GitHub repository to Vercel.
-Vercel will automatically detect the framework (React + Vite) and deploy it.
+ 
