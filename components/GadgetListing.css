@@ -1,0 +1,45 @@
+.gadget-listing {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .gadget-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+  }
+  
+  .gadget-card {
+    background: white;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .gadget-card img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .gadget-card h3 {
+    margin: 1rem 0 0.5rem;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: var(--secondary-color);
+  }
+  
+  .rent-btn {
+    padding: 0.5rem 1rem;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .rent-btn:hover {
+    background: var(--secondary-color);
+  }
+  

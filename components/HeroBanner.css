@@ -1,0 +1,33 @@
+.hero-banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+  }
+  
+  .content {
+    max-width: 50%;
+  }
+  
+  .hero-img {
+    max-width: 40%;
+    border-radius: 10px;
+  }
+  
+  .cta-btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background: white;
+    color: var(--primary-color);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .cta-btn:hover {
+    background: var(--secondary-color);
+    color: white;
+  }
+  
